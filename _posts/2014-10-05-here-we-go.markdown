@@ -3,11 +3,20 @@ layout: post
 title:  "Here We go!"
 description: "Here we go, as my reasons why I, Antonio Valdez Arce started blogging. Why do I blog?"
 date:   2014-10-05 12:34:25
-categories: blog
-tags: blog general lifestyle
+categories: blog lifestyle
+tags: lifestyle
 //image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 
 
-## Hello!
-<p>Here We go!</p>
+## It's decided
+
+Antonio is blogging!
+
+Ok already, enough with the fancy third person, I finally created my first blog and we'll see if I can keep up wtih the content. My plan is to post from time to time things i do or think to share them with friend and family. Also i will try to write some things related with my profession just for myself, it's just easier to learn if I land stuff in some place.
+
+So it's done, I already blogged!, I've started, this is my first post and the [cover picture of the blog](/assets/images/cover-izmir.jpg) is from our trip to Turkey in 2007, the Izmir main square was so colorful and warm that day. I used my old Lomo camera.
+
+Check more info about this blog going to the [About](/about/) page.
+
+Nara!

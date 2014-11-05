@@ -2,16 +2,22 @@
 layout: page
 title: About
 permalink: /about/
+description: Who is Antonio Valdez Arce? Why did he started the blog "Od samego rana"
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+## Who's behind this?
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Hi, my name is Antonio. I was born in the wonderful land of Mexico but life has brought me to Poland. I moved to Wrocław in 2006 for an AIESEC intership and just liked it so much that now I'm living here indefinitely :)
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I earn my bread and tortillas working as a web developer at [Mindchili](http://mindchili.com), I'm a design and photography amateur and love football more than i should.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## What about this blog?
+I don't consider myself as a very interesting person nor have a lot to say, so the main purpose of this blog is to have my own space to share some part of my life with family and friends as well as register part of my professional knowlege.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+"Od samego rana" is a phrase in polish that means literaly "Since early morning". For me it means a lot more, but it's hard to explain haha.
+
+## Honor for the heros
+This blog is made with [Jekyll](http://jekyllrb.com/).
+And I forked the theme in github from Dirk Fabisch, you can see his original version [here](https://github.com/dirkfabisch/mediator).
+
+So, thanks a lot!
