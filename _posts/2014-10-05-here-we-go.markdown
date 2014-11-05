@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Here We go!"
+description: "Here we go, as my reasons why I, Antonio Valdez Arce started blogging. Why do I blog?"
+date:   2014-10-05 12:34:25
+categories: blog
+tags: blog general lifestyle
+//image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+---
+
+
+## Hello!
+<p>Here We go!</p>
