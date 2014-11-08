@@ -13,7 +13,7 @@ As a mexican living abroad i find it funny when i hear stereotypes about us and 
 
 ## What they say: Mexican families are huge!
 
-All around i hear this and also jokes about it. But i can't say it's a lie. Taking my family as an example, from my father's side i have 7 uncles and 2 aunts and from my mother's side 3 uncles and 5 aunts. This gives me an unknown number of cousins sa every uncle and aunt have at least 3 children. 
+All around i hear this and also jokes about it. But i can't say it's a lie. Taking my family as an example, from my father's side i have 7 uncles and 2 aunts and from my mother's side 3 uncles and 5 aunts. This gives me an unknown number of cousins as every uncle and aunt have at least 3 children. 
 
 We have a Whatsapp group with my cousins (father's side) and there are more than 50 memebers on the list, meaning the number of cousins at an age of having a phone. Everyday i wake up in the morning and i find more than 100 unread messages, it's amazing :)
 
