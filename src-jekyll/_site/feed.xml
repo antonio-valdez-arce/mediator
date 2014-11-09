@@ -6,9 +6,30 @@
 </description>
     <link>http://antonio.3manaties.com/</link>
     <atom:link href="http://antonio.3manaties.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 09 Nov 2014 20:14:05 +0100</pubDate>
-    <lastBuildDate>Sun, 09 Nov 2014 20:14:05 +0100</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2014 20:25:52 +0100</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2014 20:25:52 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Test deployment</title>
+        <description>&lt;h2&gt;Testing&lt;/h2&gt;
+
+&lt;p&gt;Deployment OK&lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 Nov 2014 21:24:25 +0100</pubDate>
+        <link>http://antonio.3manaties.com/blog/test/2014/11/08/deployment-test/</link>
+        <guid isPermaLink="true">http://antonio.3manaties.com/blog/test/2014/11/08/deployment-test/</guid>
+        
+        <category>test</category>
+        
+        <category>deployment</category>
+        
+        
+        <category>blog</category>
+        
+        <category>test</category>
+        
+      </item>
     
       <item>
         <title>Mexican stereotypes: Big Family</title>
