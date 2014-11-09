@@ -1,3 +1,5 @@
+include: [".htaccess"]
+
 # Build settings
 markdown: redcarpet
 highlighter: rouge
