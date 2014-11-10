@@ -1,8 +1,12 @@
 ExpiresActive On
-ExpiresDefault A0
 
 ExpiresDefault A604800
 Header append Cache-Control "public"
+
+Header unset Last-Modified
+Header unset Server
+Header unset ETag
+FileETag None
 
 <ifModule mod_gzip.c>
 mod_gzip_on Yes
