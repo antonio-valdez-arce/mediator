@@ -43,7 +43,7 @@ This musician is one of my latest discoveries. I really like his music specially
 <h3>6. La vacaloca</h3>
 _by Manu Chao_
 
-All the songs of the list bring me a lot of memories. This one was being played by a french driver when he picked me and my girlfriend (now wife :) up while we were hitchhiking through France in our way to Barceloan. When he got to know i'm from Mexico he pushed play hehe.
+All the songs of the list bring me a lot of memories. This one was being played by a french driver when he picked me and my girlfriend (now wife :) up while we were hitchhiking through France in our way to Barceloan. When he got to know i'm from Mexico he pushed play and this song started to play!
 
 <h3>7. La gran ciudad</h3>
 _by La Maldita Vecindad y los Hijos del Quinto Patio_
@@ -53,7 +53,7 @@ One of the most representative bands from Mexico, their lyrics are complete stor
 <h3>8. Como te extraño mi amor</h3>
 _by Leo Dan (performs: Café Tacvba)_
 
-Una more taste from Argentina, land of great music (beside Los Pericos), but this song version is being performed by Café Tacvba, another great mexican band.
+One more taste from Argentina, land of great music (beside Los Pericos), but this song version is being performed by Café Tacvba, another great mexican band.
 
 <h3>9. Strip my mind</h3>
 _by Red Hot Chilli Peppers_
