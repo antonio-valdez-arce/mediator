@@ -18,7 +18,7 @@ So here's my list. The order is not important:
 <h3>1. Wordless chorus</h3> 
 _by My morning Jacket_
 
-This is the first song i hear from My morning Jacket, it was about 8 years ago and it still moves me. I think the band mixes rock, folk and a little of blues in a very nice way
+This is the first song i hear from My morning Jacket, it was about 8 years ago and it still moves me. I think the band mixes rock, folk and a little of blues in a very nice way to create very melancholic chords.
 
 <h3>2. Baby boom</h3>
 _by The Crimea_
@@ -53,7 +53,7 @@ One of the most representative bands from Mexico, their lyrics are complete stor
 <h3>8. Como te extraño mi amor</h3>
 _by Leo Dan (performs: Café Tacvba)_
 
-Una more taste from Argentina, land of great music (beside Los Pericos), but this song version is being performed by Café Tacvba, another great mexican band
+Una more taste from Argentina, land of great music (beside Los Pericos), but this song version is being performed by Café Tacvba, another great mexican band.
 
 <h3>9. Strip my mind</h3>
 _by Red Hot Chilli Peppers_
